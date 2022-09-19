@@ -31,11 +31,11 @@ navigation:
   - text: home
     url: /
   - text: photos
-    url: /photos
+    url: /photos/
   - text: stories
-    url: /stories
+    url: /stories/
   - text: about
-    url: /about
+    url: /about/
 
 # The shortname for your Disqus site to enable comments.
 disqus: ""
@@ -58,7 +58,7 @@ paginate_path: '/page:num/'
 
 
 # Permalinks
-permalink: "/:title"
+permalink: pretty
 
 # Conversion
 markdown: kramdown
