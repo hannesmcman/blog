@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "yo! hannes!"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: ""
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -23,31 +23,29 @@ url: "https://scriptor-jekyll.netlify.com"
 # Favicon
 favicon: images/favicon.png
 
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+# Google Analytics id, e.g. "G-NNNNNNNN"
+google_analytics: "G-8CLL41WEPG"
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: home
     url: /
-  - text: About
+  - text: photos
+    url: /photos/
+  - text: stories
+    url: /stories/
+  - text: about
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: ""
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; Johannes Carlsen all rights reserved. Theme inspired by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
