@@ -1,0 +1,25 @@
+hannes:
+  name: "Johannes Carlsen"
+  bio: >
+    Johannes (Hannes) is the guinea pig first born of Rolf and Rose. He spent his childhood
+    in Minneapolis, Minnesota and has since been spending his early adulthood gradually turning into his parents.
+    He attended St. Olaf College in Northfield, just like Rolf, where he majored in Math
+    (Rolf's major? Yep!) and Computer Science (ooh that's new!). After graduating in 2019 he moved
+    to Seattle, Washington (like Rose in her twenties) to work as a Software Engineer (okay Rose wasn't 
+    a Software Engineer) at Amazon. After three years at Amazon, he realized he had strayed a little
+    too far from his parents' trajectories and was due for a course correct. So he quit his job and 
+    applied to work at Holden Village (a lutheran retreat center in the North Cascades) for a year, 
+    just like, you guessed it, Rolf did in his twenties! Although this is certainly a big step in the 
+    main storyline, he decided he also had some time to indulge in a side quest or two. First up, a
+    six week trip to Nepal with two of his best friends, Bidit and Ganesh. Stay tuned for updates from
+    this and any other potential side quests, and perhaps even a few from the main storyline as he 
+    returns to Washington and heads up to Holden, like his father before him.
+  url: ""
+  location: "Seattle, Washington"
+  image: "images/hannes_glasses.jpg"
+ganesh:
+  name: "Ganesh Shrestha"
+  bio: "Ganesh "
+  url: "https://hanboy612.com"
+  location: "Seattle, Washington"
+  image: "images/hannes_author.png"
