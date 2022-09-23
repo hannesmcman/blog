@@ -30,8 +30,8 @@ google_analytics: "G-8CLL41WEPG"
 navigation:
   - text: home
     url: /
-  - text: photos
-    url: /photos/
+  # - text: photos
+  #   url: /photos/
   - text: stories
     url: /stories/
   - text: about
