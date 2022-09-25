@@ -32,7 +32,7 @@ navigation:
     url: /
   - text: stories
     url: /stories/
-  - text: portfolio
+  - text: photos
     url: https://portfolio.hanboy612.com
   - text: about
     url: /about/
