@@ -8,6 +8,8 @@ tags: [nepal]
 author: hannes
 ---
 
+**Note: I'm posting this one at the same time as the post from Dhading - here's the link to that one if you want to read that one first if you are the chronological type: [link]({% post_url 2022-09-24-dhading %})**
+
 After a very relaxing stay in Dhading, we hit the road again to travel south to Narayangarh, which is in in the Chitwan district and is where Ganesh's other sister Pabitra lives with her husband Ganendra and their three kids Pragya, Praju and Pragyan (twins). Ishwar was kind enough to find a driver to take us in his pickup truck on the two and half hour drive from Dhading to Narayangarh and so after a quick breakfast we hit the road with Shyam at the wheel. We found out that Shyam had spent 18 years driving a semi-truck in Qatar, where he claims to have learned Arabic on his own in three months, so rest-assured we were in good hands. 
 
 The drive south was as stunning as the drive into Dhading had been, and it was even better from the comfort of a truck. We started the ride along the Thopal Khola river surrounded by densely forested rolling hills (mountains by my midwestern standards), which we eventually left behind in favor of the Trishuli River and the flatlands of the Terai. It rained a bit on our way and both rivers we rode along were churning fast, with the light brown color of monsoon season. 
