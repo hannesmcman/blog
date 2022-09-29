@@ -22,6 +22,11 @@ layout: default
     <div class="post-content">
       {{content}}
     </div><!-- .post-content -->
+    {% if site.post_footer and site.post_footer.content != "" %}
+    <div class="post-footer">
+      <blockquote>{{ site.post_footer.content }}</blockquote>
+    </div><!-- .post-footer -->
+    {% endif %}
     <div class="post-share">
       <span>Share:</span>
       <a target="_blank"

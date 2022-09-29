@@ -48,6 +48,9 @@ footer:
   content: "&copy; Johannes Carlsen all rights reserved. Theme inspired by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
+post_footer:
+  content: "Every pun is marked with an \"*\" to increase its chances of a sucessful landing."
+
 # Plugins
 plugins:
   - jekyll-paginate
